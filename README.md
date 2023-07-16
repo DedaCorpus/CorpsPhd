@@ -8,7 +8,7 @@ Name of QuantLet: DEDA_class_SoSe2023_LDA_PhD_Theses
 
 Published in: DEDA Class SoSe2023
 
-Description: Applies LDA and DTM on LvB Ph.D theses following automated pre-processing. The results are visuzalizations of topics distriubtions and their evolution over time.
+Description: Applies LDA and DTM on LvB Ph.D theses following automated pre-processing. The results are visuzalizations of topics distributions and their evolution over time.
 
 Keywords: latent dirichlet allocation, dynamic topic modeling, topic modeling, plots, natural language processing
 
@@ -18,7 +18,7 @@ Submitted: Monday, 10 of July 2023 by Raul Cristian Bag
 
 ```
 
-# Applies LDA and DTM on LvB Ph.D theses following automated pre-processing. The results are visuzalizations of topics distriubtions and their evolution over time.
+# Applies LDA and DTM on LvB Ph.D theses following automated pre-processing. The results are visuzalizations of topics distributions and their evolution over time.
 
 ## Evolution of the 1. topic
 ![Evolution of the 1. topic](./plot/output1.png)
