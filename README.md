@@ -20,6 +20,9 @@ Submitted: Monday, 10 of July 2023 by Raul Cristian Bag
 
 Applies LDA and DTM on LvB Ph.D theses following automated pre-processing. The results are visuzalizations of topics distriubtions and their evolution over time.
 
+## Evolution of the 1. topic
 ![Evolution of the 1. topic](./plot/output1.png)
+## Evolution of the 2. topic
 ![Evolution of the 2. topic](./plot/output2.png)
+## Evolution of the 3. topic
 ![Evolution of the 3. topic](./plot/output3.png)
